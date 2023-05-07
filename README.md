@@ -1,7 +1,7 @@
 
 # html to csv
 
-A simple python script to convert from Google Chrome bookmark(html) output to csv
+A simple python script to convert from Google Chrome bookmark(html) output to csv  
 放送大学「プログラミングの学び方と教え方」の提出課題の一部
 
 ## Requirements:
